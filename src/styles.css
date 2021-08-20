@@ -1,0 +1,16 @@
+body {
+    background: #ccc;
+    margin: 0;
+}
+.scoreDiv{
+    position: absolute;
+    top: 0;
+    right: 50%;
+}
+.scoreDiv p{
+    font-size: 1.2rem;
+}
+
+canvas {
+    cursor: none;
+}
